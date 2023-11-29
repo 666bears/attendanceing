@@ -51,7 +51,7 @@ Node版本：14
 
 #### 六、获取地址
 #### 项目演示地址：https://space.bilibili.com/351929960?spm_id_from=333.1007.0.0
-#### 项目获取地址：https://www.666bear.com/
+#### 项目获取地址：https://www.666bear.com/3817.html
 #### qq 3289948684
 #### 接毕业设计和论文
 #### 接网站建设、小程序、H5、APP、各种系统、样式修改等
